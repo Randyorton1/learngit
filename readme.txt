@@ -1,4 +1,2 @@
-Git is a 
-free
-ggg
-gggg  jjj
+Git is a free
+version 3
